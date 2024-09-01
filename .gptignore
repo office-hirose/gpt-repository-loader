@@ -16,3 +16,15 @@ LICENSE
 *.jpeg
 *.jpg
 *bin/*
+
+# hirose setting
+.firebase/*
+.nuxt/*
+.output/*
+node_modules/*
+dist
+package-lock.json
+README_npm.md
+*.ttf
+*.txt
+*.woff2
